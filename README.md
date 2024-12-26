@@ -17,7 +17,7 @@ I am an enthusiastic and dedicated developer specializing in the MERN stack. I t
    - Comprehensive platform for event bookings like birthdays, weddings, and housewarming, with PDF-based booking confirmations and status tracking.  
    - **Tech Stack**: PHP, MySQL, and JavaScript.  
    - **Role**: Designed the database structure, optimized backend logic, and ensured seamless user experience.  
-   - [Repository Link](#)  
+   - [https://github.com/AnantH287/Final-Event-Management.git](#)  
 
 ## 🚀 What I'm Currently Learning  
 - 🌐 **Frontend**: React.js, Next.js, and TailwindCSS for modern UI/UX.  
