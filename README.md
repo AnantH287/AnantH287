@@ -31,7 +31,7 @@ I’m eager to work on **web development projects**, particularly in:
 - Creating efficient backend solutions  
 - Scalable database management  
 
-## 💻 Tech Stack  ## 💻 Tech Stack
+## 💻 Tech Stack  
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) 
