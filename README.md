@@ -15,10 +15,9 @@ Currently building cross-platform mobile applications using Flutter and Dart, fo
 - Clean architecture & state management (Provider / BLoC)  
 - REST API integration with secure JWT authentication  
 - Building visually engaging, performance-optimized UIs  
-- **Repo:** [Flutter Tasks]([https://github.com/AnantH287/BA-English-Study-Materials](https://github.com/AnantH287/Flutter_Practice.git))
-
+- **Repo:** [Flutter Tasks](https://github.com/AnantH287/Flutter_Practice.git)
+  
 ---
-
 ### 🧩 Weekly Flutter Tasks & Learning Progress  
 
 I regularly work on Flutter weekly tasks to strengthen my skills in UI design, API integration, and device features.
