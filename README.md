@@ -1,12 +1,21 @@
 # Hi there, I'm Ananth! 👋  
 
-## 🌟 Full-Stack MERN Developer | Passionate Software Engineer 🌟  
+## 🌟 Full-Stack Flutter & MERN Developer | Passionate Software Engineer 🌟  
 
-I am an enthusiastic and dedicated developer specializing in the MERN stack. I thrive on creating scalable, efficient, and impactful web applications while continuously advancing my skills in modern technologies.  
-
+I’m an enthusiastic developer with hands-on experience in both Flutter mobile app development and MERN stack web development. I love building scalable, user-friendly applications and continuously learning modern technologies to stay ahead in the field.
 ---
 
 ### 🔭 What I’m Currently Working On  
+
+# Professional Role – Flutter Developer
+Currently working on cross-platform mobile applications using Flutter and Dart, focusing on clean architecture, state management, and REST API integrations.
+
+- Clean architecture & state management (Provider/BLoC)
+- REST API integration with secure JWT authentication
+- Building visually engaging, performance-optimized UIs
+
+### Personal Projects (MERN Stack & Web Development)
+
 1. **Dynamic Educational Resource Platform**  
    - Designed for BA English students, featuring **dynamic video lessons**, **interactive quizzes**, and a **bookmarking system** for saving resources.  
    - **Tech Stack**: React.js, Node.js, Express.js, and MySQL.  
@@ -20,23 +29,25 @@ I am an enthusiastic and dedicated developer specializing in the MERN stack. I t
    - [https://github.com/AnantH287/Event-Management.git](#)  
 
 ## 🚀 What I'm Currently Learning  
-- 🌐 **Frontend**: React.js, Next.js, and TailwindCSS for modern UI/UX.  
-- 🔧 **Backend**: Node.js, Express.js, and API development.  
-- 📦 **Databases**: MongoDB for scalable NoSQL solutions.  
-- 🛠️ **DevOps**: Docker and CI/CD pipelines for smooth deployments.  
 
+- 🌐 **Frontend**: Flutter Advanced Concepts – State management, animations, and app architecture.  
+- 🔧 **Backend**: Node.js, Express.js, and API development.  
+- 📦 **Databases**: MySql.
+- 
 ## 🤝 Looking to Collaborate  
-I’m eager to work on **web development projects**, particularly in:  
-- Building dynamic user interfaces  
-- Creating efficient backend solutions  
-- Scalable database management  
+
+Flutter mobile applications with modern UI/UX
+Scalable backend APIs using Node.js
 
 ## 💻 Tech Stack  
+
+### Mobile
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
@@ -59,4 +70,4 @@ I’m eager to work on **web development projects**, particularly in:
 
 ### 🌱 Fun Fact  
 
-I believe every project is a stepping stone to innovation. I’m eager to collaborate and learn from other developers who share a passion for building meaningful applications. 😊  
+I started my career as a MERN stack developer trainee, and now I’m crafting Flutter mobile apps professionally — learning, adapting, and growing every day. 🚀
