@@ -18,6 +18,17 @@ Currently building cross-platform mobile applications using Flutter and Dart, fo
 
 ---
 
+### 🧩 Weekly Flutter Tasks & Learning Progress  
+
+I regularly work on Flutter weekly tasks to strengthen my skills in UI design, API integration, and device features.
+
+#### Recent Weekly Tasks  
+- ⚡ **Show battery percentage** on demand using Flutter’s battery package  
+- 📍 **Convert latitude & longitude to a readable address** with `FutureBuilder` and geocoding  
+- 🎨 **Designed a front UI screen** focusing on layout, spacing, and responsive structure  
+
+Each task helps me explore new Flutter functionalities and improve app performance, user experience, and clean code practices.
+---
 ### 🧠 Personal Projects (MERN Stack & Web Development)
 
 #### 1. Dynamic Educational Resource Platform  
