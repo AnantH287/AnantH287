@@ -89,7 +89,7 @@ Each task helps me explore new Flutter functionalities and improve app performan
 ## 📫 Connect with Me  
 
 - 📧 Email: [anantananth925@gmail.com](mailto:anantananth925@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/ananth-m-89b6031b3)
+- 💼 LinkedIn: [Ananth M](https://www.linkedin.com/in/ananth-m-89b6031b3)
 
 ---
 
