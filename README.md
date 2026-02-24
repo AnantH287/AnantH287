@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Ananth!  
 
-## 🌟 Full-Stack Flutter & MERN Developer | Passionate Software Engineer 🌟  
+## 🌟 Full-Stack Flutter | Passionate Software Engineer 🌟  
 
-I’m an enthusiastic developer with hands-on experience in both **Flutter mobile app development** and the **MERN stack**.  
+I’m an enthusiastic developer with hands-on experience in both **Flutter mobile app development** .  
 I love building scalable, user-friendly applications and continuously learning modern technologies to stay ahead in the field.
 
 ---
